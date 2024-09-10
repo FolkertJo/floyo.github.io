@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Watchface: Modern Hybrid 1"
+title:  "Watchface: Modern Ananlog 1"
 date:   2014-10-18 12:58:29
-categories: watchface analog digital
+categories: watchface analog
 ---
 A new watchface, a modern stylish analog display. All colorschemes are carefully selected.
 
