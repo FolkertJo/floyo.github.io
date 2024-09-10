@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Watchface: Modern Analog 1"
-date:   2024-10-09 12:58:29
+date:   2024-09-10 12:58:29
 categories: watchface analog
 ---
 A new watchface, a modern stylish analog display. All colorschemes are carefully selected.
