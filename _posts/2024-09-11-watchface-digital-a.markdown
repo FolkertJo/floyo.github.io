@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Watchface: Modern Analog 1"
-date:   2024-09-11 12:58:29
+date:   2024-09-11 07:58:29
 categories: watchface analog
 image: /assets/images/Dibz_WF_Digital_A/banner_4.png
 ---
