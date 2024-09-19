@@ -2,9 +2,7 @@
 title: Floyo Development
 email: folkert.jongbloed@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a passionate Android Watchface developer dedicated to transforming your smartwatch experience with vibrant and imaginative designs. My creations are not just about telling time; they are about making a statement and adding a splash of color to your wrist. With a keen eye for detail and a love for innovation, I craft watchfaces that are both functional and visually stunning.
 baseurl: /
 url: "https://folkertjo.github.io" # the base hostname & protocol for your site
 twitter_username: 
