@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Watchface: Digital G: Wear OS"
+date:   2024-10-06 11:20:29
+categories: watchface analog
+image: /assets/images/digital_h/banner.png
+---
