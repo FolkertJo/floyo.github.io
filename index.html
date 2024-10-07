@@ -16,9 +16,10 @@ layout: default
           {{ post.title }}
           <!-- <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> -->
         </h2>
-        <p>
-          <h3>Google Playstore link</h3>
-          <a href="https://play.google.com/store/apps/details?id= {{- post.package -}}">Download</a>
+        <p>   
+          <a href="https://play.google.com/store/apps/details?id= {{- post.package -}}" tabIndex="0">
+            <img class="bn45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" alt="bn45"/>
+          </a>       
         </p>
       </li>
     {% endfor %}
