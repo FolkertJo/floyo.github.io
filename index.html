@@ -16,7 +16,7 @@ layout: default
           {{ post.title }}
           <!-- <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> -->
         </h2>
-        {% if post.package != "" %}
+        {% if post.package and post.package != "" %}
         <p>             
           <a href="https://play.google.com/store/apps/details?id= {{- post.package -}}" tabIndex="0">
             <img class="bn45" src="/assets/css/Google_Play_Store_badge_EN.svg.png" alt="bn45"/>
