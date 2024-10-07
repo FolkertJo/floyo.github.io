@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Watchface: Modern Analog 1"
+title:  "Watchface: Analog B: Wear OS"
 date:   2024-09-10 12:58:29
 categories: watchface analog
-image: /assets/images/Dibz_WF_Analog_B/banner_3.png
-package: com.watchfacestudio.dibz_wf_digital_g
+image: /assets/images/analog_b/banner.png
+package: com.watchfacestudio.dibz_wf_analog_b
 ---
