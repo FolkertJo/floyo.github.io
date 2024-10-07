@@ -21,6 +21,11 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    background-color: Canvas;
+    color: CanvasText;
+    color-scheme: light dark;
+    background-color: color-mix(in srgb, Canvas, CanvasText 2.5%);
+    color: color-mix(in srgb, CanvasText, Canvas 15%);
 }
 
 
